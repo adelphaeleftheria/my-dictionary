@@ -1,0 +1,1775 @@
+{
+  "accessedAt": "2026-10-24T07:37:27.803Z",
+  "files": [
+    {
+      "word": "Abend",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/Ab/Abend.jsonl",
+      "sha256": "30fe820b38daa8506c8a49717b08bf85cc1c66b3d11bc7baa719f315306928e9",
+      "bytes": 9301
+    },
+    {
+      "word": "Abendessen",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/Ab/Abendessen.jsonl",
+      "sha256": "c1425c3bb4e0da02db9e2d510933cbd26eb12a17fbda380682e1ebeafb1dc3a0",
+      "bytes": 3794
+    },
+    {
+      "word": "aber",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/ab/aber.jsonl",
+      "sha256": "07277a6af67f9aa4d4e1de37ac27b7719193c91d826c5c95355c38a24fb83ea6",
+      "bytes": 8661
+    },
+    {
+      "word": "allein",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/al/allein.jsonl",
+      "sha256": "fb683f4e29d3f6be19b9ae2008ae0b1cfc7be880553342651b6a5c2b8be77eba",
+      "bytes": 10658
+    },
+    {
+      "word": "alt",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/al/alt.jsonl",
+      "sha256": "c501210ba6592bdd7166507575faec2bc5aa45ea157a150e3a53234897b9e498",
+      "bytes": 30220
+    },
+    {
+      "word": "an",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/an/an.jsonl",
+      "sha256": "5cd97e020959fdf0a10cdabf5faaaced8902c11232cc541c5f5eedf83dad5c2c",
+      "bytes": 18342
+    },
+    {
+      "word": "ändern",
+      "url": "https://kaikki.org/dictionary/German/meaning/%C3%A4/%C3%A4n/%C3%A4ndern.jsonl",
+      "sha256": "3327d0aa7f61302cf5bd4e2591ea901da75841f1849f3a195822bc33c58dd766",
+      "bytes": 17578
+    },
+    {
+      "word": "Angebot",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/An/Angebot.jsonl",
+      "sha256": "216497e1367732194ca06204e0e79da3e8f69d00e84292e14e65fa0d69fa1252",
+      "bytes": 8426
+    },
+    {
+      "word": "Angst",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/An/Angst.jsonl",
+      "sha256": "dba075cf7a4508788fa5f3918a3eb505073cdd6e5e9e4d7fadf5141db6e91dd5",
+      "bytes": 4652
+    },
+    {
+      "word": "ankommen",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/an/ankommen.jsonl",
+      "sha256": "93810b4095f8a0c51fdcb6c8949ff7931953761f9d7ca24b0cbb8c4d62fca51b",
+      "bytes": 27970
+    },
+    {
+      "word": "Antwort",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/An/Antwort.jsonl",
+      "sha256": "c461da71cac34811725c5f65eb662cdd129e0ea970e18012152f1bf117f23330",
+      "bytes": 3888
+    },
+    {
+      "word": "antworten",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/an/antworten.jsonl",
+      "sha256": "9c67f7b25be24136bb6f5963634a3fad3910e6a75ed94c06e8059c0dfe03897c",
+      "bytes": 17904
+    },
+    {
+      "word": "Apfel",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/Ap/Apfel.jsonl",
+      "sha256": "89a1d7a73d45346818393e17f32c00e1f21e6df25fecd60b07c6b01ccba38b21",
+      "bytes": 16357
+    },
+    {
+      "word": "Arbeit",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/Ar/Arbeit.jsonl",
+      "sha256": "e52b6acafc9e645d456dfa2ba8d45d401635f0e32948984c11c94ddf92da0d0c",
+      "bytes": 19218
+    },
+    {
+      "word": "arbeiten",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/ar/arbeiten.jsonl",
+      "sha256": "69e3f78e12de01a7aa9cc978ff1b68e21514153824b309488164fefb8300b5b2",
+      "bytes": 24535
+    },
+    {
+      "word": "Arzt",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/Ar/Arzt.jsonl",
+      "sha256": "ce38f95d5615a6e175adf7300d45c46fbb4aeebf31a0b244c2cd69823888b3e1",
+      "bytes": 6230
+    },
+    {
+      "word": "auf",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/au/auf.jsonl",
+      "sha256": "f791e3f3659c77456d40f4289d1bfbfda72c86d87bd7a2e2e905217fbc72e2a4",
+      "bytes": 23864
+    },
+    {
+      "word": "aufstehen",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/au/aufstehen.jsonl",
+      "sha256": "4be9314913db1e39e0bbbc15441eeb0f106ee60ec4993bd0105cc6e724d2a85a",
+      "bytes": 31457
+    },
+    {
+      "word": "aus",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/au/aus.jsonl",
+      "sha256": "7ad99d1aab38f393d50c2bc55808e025c8f97b2e91894714e3c40b55af4c2451",
+      "bytes": 13416
+    },
+    {
+      "word": "außen",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/au/au%C3%9Fen.jsonl",
+      "sha256": "ba486ac7195dd1ed736a66a9e7e07aee2c653564cdfe9604998c69afac77a6a3",
+      "bytes": 2592
+    },
+    {
+      "word": "aussteigen",
+      "url": "https://kaikki.org/dictionary/German/meaning/a/au/aussteigen.jsonl",
+      "sha256": "50250e0de1fcf3ea71273f8baa6bfffa060d472454d954f608037fce20e2f9ee",
+      "bytes": 23018
+    },
+    {
+      "word": "Auto",
+      "url": "https://kaikki.org/dictionary/German/meaning/A/Au/Auto.jsonl",
+      "sha256": "11a7b690c88552cde3dfac7d2f8c769f1b7e3c1f53ef7f963bc450bd0f1daff1",
+      "bytes": 9439
+    },
+    {
+      "word": "Bahnhof",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Ba/Bahnhof.jsonl",
+      "sha256": "4c323e53b1b3d40a0ea062ee823bbb09439b9623492f6090d1f52a123312fb11",
+      "bytes": 6114
+    },
+    {
+      "word": "Bank",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Ba/Bank.jsonl",
+      "sha256": "62a2f46e0dc4174a038a2a0534e33135f992af0f4a73fcaf81646a899088ffb2",
+      "bytes": 14313
+    },
+    {
+      "word": "bauen",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/ba/bauen.jsonl",
+      "sha256": "689322e97ce4981937d2d5f1e3d99788c747b12195e9d6828f9082f46efec659",
+      "bytes": 20846
+    },
+    {
+      "word": "Baum",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Ba/Baum.jsonl",
+      "sha256": "84cb69c90bfc7085b57a23355a14817a32df9c4127702061263d93ffa87168cd",
+      "bytes": 12771
+    },
+    {
+      "word": "Bedeutung",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Be/Bedeutung.jsonl",
+      "sha256": "6ff4817e753afb6206ae93af7524aca8b65e7705ab31acd2b11e43d23b0cc37f",
+      "bytes": 5537
+    },
+    {
+      "word": "beginnen",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/be/beginnen.jsonl",
+      "sha256": "0214a35ce3b1d3911f13fc7b3376a03baf7245eb38ea6309729f7469c4813ad7",
+      "bytes": 20735
+    },
+    {
+      "word": "bei",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/be/bei.jsonl",
+      "sha256": "ba547c92fbe0d07a7b1836716c9054867f163328037eeb8c62415c54c475b75f",
+      "bytes": 11956
+    },
+    {
+      "word": "Beispiel",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Be/Beispiel.jsonl",
+      "sha256": "2b894573dff5ce8f76151c6a61c3bf10d3312049a53c5071e383eb906dc8dd66",
+      "bytes": 4674
+    },
+    {
+      "word": "benutzen",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/be/benutzen.jsonl",
+      "sha256": "bbceb5d5468ad44c10242c44a7dd26df45027d9c9ca9e0973a0a6a9fe89a0796",
+      "bytes": 18683
+    },
+    {
+      "word": "Berg",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Be/Berg.jsonl",
+      "sha256": "8893c4f8f006d02a7b0c2a4679933069c5541b2e053917d067b2df1351173bbd",
+      "bytes": 19488
+    },
+    {
+      "word": "Beruf",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Be/Beruf.jsonl",
+      "sha256": "321e0fa2b260fdd16c3acb6b8a2a832638efcff6481a48216900a49172e56fd1",
+      "bytes": 3396
+    },
+    {
+      "word": "besonders",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/be/besonders.jsonl",
+      "sha256": "b8610d8c97450bad1a78e0bc9606f97dc55cff1b30ace212a5f0cd705fa9cf8e",
+      "bytes": 2989
+    },
+    {
+      "word": "Besprechung",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Be/Besprechung.jsonl",
+      "sha256": "79a4a5aa10f6ff38a28a19e76d2d49df077546e53738c831bcda37933d74334c",
+      "bytes": 4253
+    },
+    {
+      "word": "Bett",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Be/Bett.jsonl",
+      "sha256": "4eba2ddf756fd5a2254da3acadffb539dec989fa0d20d4830e8d5fb09f7f54aa",
+      "bytes": 6338
+    },
+    {
+      "word": "bezahlen",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/be/bezahlen.jsonl",
+      "sha256": "e0a4ff92b369b5ff1fa7e4b456c50503525ceb3130cb5bc0d8d708e4999d7c83",
+      "bytes": 21788
+    },
+    {
+      "word": "Bild",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Bi/Bild.jsonl",
+      "sha256": "37c5652584a36cfa5902224affa930ed180f371ddb81e57e5b4e4824093ff809",
+      "bytes": 14435
+    },
+    {
+      "word": "bleiben",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/bl/bleiben.jsonl",
+      "sha256": "3bd3bac6593bc842809114894080ed622df956ecee2f080f404d8c70246c6ef0",
+      "bytes": 25020
+    },
+    {
+      "word": "Blume",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Bl/Blume.jsonl",
+      "sha256": "82d87e1c72716523152c519ac78843b1bed863fca9122450b43380c00554afab",
+      "bytes": 14961
+    },
+    {
+      "word": "brauchen",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/br/brauchen.jsonl",
+      "sha256": "c315295ad81491263243e215b6c4dbede3104e47a7f62e6ce30bcc73bfdb56de",
+      "bytes": 21405
+    },
+    {
+      "word": "Brief",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Br/Brief.jsonl",
+      "sha256": "a3099556e8095e638dcb0cc608f1a761fad8a62a782e070cfdff4be54ded4d25",
+      "bytes": 5130
+    },
+    {
+      "word": "bringen",
+      "url": "https://kaikki.org/dictionary/German/meaning/b/br/bringen.jsonl",
+      "sha256": "7389448ce3bdf5b2ce6c4d35fe4d132148c0e99773271e82cb0bea44f4353adb",
+      "bytes": 29627
+    },
+    {
+      "word": "Brot",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Br/Brot.jsonl",
+      "sha256": "a428eed42f2f4b00d5bf3e9abb69079f381dcd2472c89a93ef0f5f9242edaa52",
+      "bytes": 16911
+    },
+    {
+      "word": "Bruder",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Br/Bruder.jsonl",
+      "sha256": "7106fdcd9102c23f5263b26eaf7e0154e22e3f013f4104acfa04edb267a33a40",
+      "bytes": 5206
+    },
+    {
+      "word": "Buch",
+      "url": "https://kaikki.org/dictionary/German/meaning/B/Bu/Buch.jsonl",
+      "sha256": "04070ac9f636129aaf266e2fccd0a074142bf6d80430b8d56710002566ebf861",
+      "bytes": 10945
+    },
+    {
+      "word": "Computer",
+      "url": "https://kaikki.org/dictionary/German/meaning/C/Co/Computer.jsonl",
+      "sha256": "ff37a9eafec526eee5273db3f519ed32feae2571b7af577f7e7bfee642760ad6",
+      "bytes": 12745
+    },
+    {
+      "word": "dass",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/da/dass.jsonl",
+      "sha256": "5ffed8c33077283960b8cfad02b8a5a6ad2298d3cecfc6da7ad9d001c7c80997",
+      "bytes": 3807
+    },
+    {
+      "word": "denken",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/de/denken.jsonl",
+      "sha256": "13c98c512c99b707c4882700d6ae7a6b777672d33633dd2cecdfa612ba923449",
+      "bytes": 22694
+    },
+    {
+      "word": "deshalb",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/de/deshalb.jsonl",
+      "sha256": "5fe53f99766d2f50368a6d5c2442257efc02fff4d7813d05c98ef3515cc59d31",
+      "bytes": 3681
+    },
+    {
+      "word": "deutlich",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/de/deutlich.jsonl",
+      "sha256": "62e805c2c536852c240f2b5070ba54aef6386f66305ebeb47ddd65abae5bab94",
+      "bytes": 27399
+    },
+    {
+      "word": "Deutsch",
+      "url": "https://kaikki.org/dictionary/German/meaning/D/De/Deutsch.jsonl",
+      "sha256": "af3ed708a74a8e1c0ef150c554ca1e31e29d54c721a2e9e7cff7638a3dd9baf1",
+      "bytes": 12017
+    },
+    {
+      "word": "dort",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/do/dort.jsonl",
+      "sha256": "1571615fae66959f3eaf38462c5ca4e7298b6fd105235afb19ff393a637bdc8c",
+      "bytes": 2392
+    },
+    {
+      "word": "durch",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/du/durch.jsonl",
+      "sha256": "fe0c69e1222193bc9437b95516b88920692a9b85e85cd0bb084c7beae0ac82e5",
+      "bytes": 11978
+    },
+    {
+      "word": "dürfen",
+      "url": "https://kaikki.org/dictionary/German/meaning/d/d%C3%BC/d%C3%BCrfen.jsonl",
+      "sha256": "f57b68db9ec95ba4bc731bb6b21a47927ad7e10a808e58e2122ba7d170453f02",
+      "bytes": 22042
+    },
+    {
+      "word": "einfach",
+      "url": "https://kaikki.org/dictionary/German/meaning/e/ei/einfach.jsonl",
+      "sha256": "899c692f5f1732a6c8e1d6abcc9fb72a2ffe9d10001efe0ebf38ff2447c17ece",
+      "bytes": 29448
+    },
+    {
+      "word": "einkaufen",
+      "url": "https://kaikki.org/dictionary/German/meaning/e/ei/einkaufen.jsonl",
+      "sha256": "58d87c8482c4c10a9fe72a47e8e6ceb2efa79c8740a24d45d9b698e41b529178",
+      "bytes": 20875
+    },
+    {
+      "word": "Eltern",
+      "url": "https://kaikki.org/dictionary/German/meaning/E/El/Eltern.jsonl",
+      "sha256": "c8ad0b9c5f86fcf96359ea942675a7676529df59312ffd82925fe88d283f7ebc",
+      "bytes": 4053
+    },
+    {
+      "word": "enden",
+      "url": "https://kaikki.org/dictionary/German/meaning/e/en/enden.jsonl",
+      "sha256": "9a996da45aadfb815c3c70d246f09ed249423a59ca8c96c9eb8e60e1386c5d09",
+      "bytes": 16445
+    },
+    {
+      "word": "Englisch",
+      "url": "https://kaikki.org/dictionary/German/meaning/E/En/Englisch.jsonl",
+      "sha256": "912d14633bdf670e11f7788a2958355a6943a56371cb8e9c635b1376b596e7a4",
+      "bytes": 8537
+    },
+    {
+      "word": "Erfahrung",
+      "url": "https://kaikki.org/dictionary/German/meaning/E/Er/Erfahrung.jsonl",
+      "sha256": "1442ce13cb9bc4ca0efc91ce8a216613689f5a8267dab56f3ca07e2028989204",
+      "bytes": 4143
+    },
+    {
+      "word": "erinnern",
+      "url": "https://kaikki.org/dictionary/German/meaning/e/er/erinnern.jsonl",
+      "sha256": "df504500d7498690dc957f3d57531b994cce1e64dabcbcc6978d46a88beb6c20",
+      "bytes": 21523
+    },
+    {
+      "word": "Erinnerung",
+      "url": "https://kaikki.org/dictionary/German/meaning/E/Er/Erinnerung.jsonl",
+      "sha256": "230b00399a848924578da3b939f8c199dcbdb6e232f77a3e57e45e4f0d15fed2",
+      "bytes": 5088
+    },
+    {
+      "word": "erklären",
+      "url": "https://kaikki.org/dictionary/German/meaning/e/er/erkl%C3%A4ren.jsonl",
+      "sha256": "219895239f2a22e10b0c880c1013bac125cfe260439e6c8290b7b8b592e630f0",
+      "bytes": 18379
+    },
+    {
+      "word": "essen",
+      "url": "https://kaikki.org/dictionary/German/meaning/e/es/essen.jsonl",
+      "sha256": "3b365c89a01857d5f686c1be002e5fbd7cc968da915917a44852b509dc981926",
+      "bytes": 22503
+    },
+    {
+      "word": "Essen",
+      "url": "https://kaikki.org/dictionary/German/meaning/E/Es/Essen.jsonl",
+      "sha256": "49426fa8e92614da4a8cef3abddccfa38910da9783030a5fe3486308b43ad6d8",
+      "bytes": 10725
+    },
+    {
+      "word": "fahren",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fa/fahren.jsonl",
+      "sha256": "3cb6620cadec8488e0720585714b2dbabe3f94998fdb4bccd7c9e4f440b7bbb6",
+      "bytes": 35686
+    },
+    {
+      "word": "Fahrrad",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fa/Fahrrad.jsonl",
+      "sha256": "d91fdf6cb183eb211a76fefa06a8baed89b54ef79e9280609197713ee1978731",
+      "bytes": 4711
+    },
+    {
+      "word": "falsch",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fa/falsch.jsonl",
+      "sha256": "69302f5f2467f0ce99024bd2660665337a26a54aa2641cc1324ce6014216b082",
+      "bytes": 29066
+    },
+    {
+      "word": "Familie",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fa/Familie.jsonl",
+      "sha256": "7d279fa3755e6930a093380464b291d446acb52a0852150e04dad84886d34adb",
+      "bytes": 6709
+    },
+    {
+      "word": "Fenster",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fe/Fenster.jsonl",
+      "sha256": "356077c44ab8beafe2d7dfc0d7750e606e1ff8760298d7d11bf838b9574f76a2",
+      "bytes": 6665
+    },
+    {
+      "word": "Film",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fi/Film.jsonl",
+      "sha256": "430d33b99d2eff9c432f74d0bd5d8d89e1101acf4bfb54e0b1b42f46c1b404b8",
+      "bytes": 7684
+    },
+    {
+      "word": "finden",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fi/finden.jsonl",
+      "sha256": "1a6bb814abcc609b3d8151ace695fb1ae331a3048d05ed9639f7e693a4fbd384",
+      "bytes": 22059
+    },
+    {
+      "word": "Firma",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fi/Firma.jsonl",
+      "sha256": "20e276e260051c4301618c54b99389faf3907c6f883953a5d19b4b170b6ba3c2",
+      "bytes": 3211
+    },
+    {
+      "word": "fliegen",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fl/fliegen.jsonl",
+      "sha256": "237473247e876ecc95716176a814917e79c9e0ab3f060b8550367e4cd99f01da",
+      "bytes": 31957
+    },
+    {
+      "word": "Flughafen",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fl/Flughafen.jsonl",
+      "sha256": "dcbd133d9fb305ddf390c9a6f09375269a385feb30052f70bde9cf029e772125",
+      "bytes": 6077
+    },
+    {
+      "word": "Fluss",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fl/Fluss.jsonl",
+      "sha256": "35ad4491d6bc11ed372503b1d2851531b8453a67c1ab5f30638d0bd9d6b36f0d",
+      "bytes": 5954
+    },
+    {
+      "word": "Frage",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fr/Frage.jsonl",
+      "sha256": "e4f1491690f2d3ff0e451d93ea57814c535b159e8df21276c78dc1b052941ee3",
+      "bytes": 6301
+    },
+    {
+      "word": "fragen",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fr/fragen.jsonl",
+      "sha256": "927c99049e6421fb3a73f5b2d6eae0bd877ce587b5a6549b80bf08dd0f447e48",
+      "bytes": 22828
+    },
+    {
+      "word": "Frau",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fr/Frau.jsonl",
+      "sha256": "e1769269c6962b9ca2a6197ca6d5a624ea80c93a8033effc336a10118f549966",
+      "bytes": 16521
+    },
+    {
+      "word": "frei",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fr/frei.jsonl",
+      "sha256": "60583ebb26c2baaf3d7786657dc3cb5c690ad1151a0d4ea9c7ad66da09623968",
+      "bytes": 38317
+    },
+    {
+      "word": "Freude",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fr/Freude.jsonl",
+      "sha256": "a9f5b61a498b7dee58ed30f3ffb8d6024428746c33afaa1ca56fab08f8e17074",
+      "bytes": 7920
+    },
+    {
+      "word": "Freund",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fr/Freund.jsonl",
+      "sha256": "c41857de909e0ad98c2a1b2734c3471d15f5bde006716627c3b9f567d5a19b14",
+      "bytes": 18177
+    },
+    {
+      "word": "freundlich",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/fr/freundlich.jsonl",
+      "sha256": "c74a13a6fad19279e4b243508b5b91c33de90fac82cba63fc122c99576ef1802",
+      "bytes": 31642
+    },
+    {
+      "word": "Frühstück",
+      "url": "https://kaikki.org/dictionary/German/meaning/F/Fr/Fr%C3%BChst%C3%BCck.jsonl",
+      "sha256": "8590612ba50e5cb90a497aed297bede7ea9a3acfa846c9725143b858839824f8",
+      "bytes": 5310
+    },
+    {
+      "word": "fühlen",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/f%C3%BC/f%C3%BChlen.jsonl",
+      "sha256": "856973434b3e1eebbc9a81d17769e01739a5210ae46e0cd269fae25738cf6697",
+      "bytes": 20773
+    },
+    {
+      "word": "für",
+      "url": "https://kaikki.org/dictionary/German/meaning/f/f%C3%BC/f%C3%BCr.jsonl",
+      "sha256": "a49e036e18a698f11c44d6a1371780bac0ca8b71a57e89edfb1ba084d07e3758",
+      "bytes": 17741
+    },
+    {
+      "word": "Garten",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ga/Garten.jsonl",
+      "sha256": "222ea41d207081cc80786352cb318f09b05c2f6623aefd1ddcec8885792838bc",
+      "bytes": 17541
+    },
+    {
+      "word": "geben",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/geben.jsonl",
+      "sha256": "a3ce3b19fe03ef90cac318a130f27c2a3f00892f405abbc63a3c9f217aec0424",
+      "bytes": 30350
+    },
+    {
+      "word": "Gedanke",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ge/Gedanke.jsonl",
+      "sha256": "d5b0cd6f40f71fe8774b4ee271ca4a405a7de7ac68a36f65eb2cf3d5e72e50e4",
+      "bytes": 4215
+    },
+    {
+      "word": "gegen",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/gegen.jsonl",
+      "sha256": "4973130a19b48d716f9b10bcfae971220589ee4b7dad4789e03591d81ed9d1a5",
+      "bytes": 5050
+    },
+    {
+      "word": "Gegenwart",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ge/Gegenwart.jsonl",
+      "sha256": "55eedef35ae82f02a897cdcf21018f698eecbf5f3fc152439c27b11d9d8b8269",
+      "bytes": 3263
+    },
+    {
+      "word": "gehen",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/gehen.jsonl",
+      "sha256": "02228028b2b238dc03481f6f95de3af5ed699ce0004629f0221d9c8f257e32bd",
+      "bytes": 38400
+    },
+    {
+      "word": "Geld",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ge/Geld.jsonl",
+      "sha256": "b4225bce7b8c4e206b445abc3cfeeaa77336fd6a1124ad6b44a3b8c50fa866e2",
+      "bytes": 10020
+    },
+    {
+      "word": "gemeinsam",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/gemeinsam.jsonl",
+      "sha256": "8f6472cba15ac9635e452c1f9f18dbda99ed98908f273c40279981e09d628367",
+      "bytes": 11375
+    },
+    {
+      "word": "Geschäft",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ge/Gesch%C3%A4ft.jsonl",
+      "sha256": "2bc5a1bb06d521caf9823cafd9fc47a71a4fe3c7848fe99c62a91223dfb71b9b",
+      "bytes": 10369
+    },
+    {
+      "word": "Geschichte",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ge/Geschichte.jsonl",
+      "sha256": "5a0caf644c23c13255cedcf1b4fbc943210322f55ae55acace10ea65c045737d",
+      "bytes": 10883
+    },
+    {
+      "word": "gestern",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/gestern.jsonl",
+      "sha256": "a5a149af02ce2c545726d95c2bd348debb0dbfab898b12501b48a7675e7c0b56",
+      "bytes": 3001
+    },
+    {
+      "word": "gesund",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/gesund.jsonl",
+      "sha256": "2cf79d0204cb08566315ac69eb544302c52dc5f55f06637a4262bfe645e8d861",
+      "bytes": 27650
+    },
+    {
+      "word": "Gesundheit",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Ge/Gesundheit.jsonl",
+      "sha256": "c840384099b8d8795c68c1dd9f5caf6e465a11c4a1b40aadccd0b4faa4e29796",
+      "bytes": 6905
+    },
+    {
+      "word": "gewinnen",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/ge/gewinnen.jsonl",
+      "sha256": "84b0d6ba9b75eed6504c9b666878c5a6ea5e487731b829c4b36368ab845db973",
+      "bytes": 21485
+    },
+    {
+      "word": "glauben",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/gl/glauben.jsonl",
+      "sha256": "fbc2848c3b44adf5a8a5eef526eae384ccbdef2886da9279f813bdd32a816a43",
+      "bytes": 22587
+    },
+    {
+      "word": "Glück",
+      "url": "https://kaikki.org/dictionary/German/meaning/G/Gl/Gl%C3%BCck.jsonl",
+      "sha256": "c2cef0d23de685b060b5129817e20906b4b53c1d453535d72fbfc7254e6c814f",
+      "bytes": 9928
+    },
+    {
+      "word": "glücklich",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/gl/gl%C3%BCcklich.jsonl",
+      "sha256": "e91042f3273ac009b5d07beeb611c09134b68fe66a1de3146cb5c280c559cc0f",
+      "bytes": 28133
+    },
+    {
+      "word": "groß",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/gr/gro%C3%9F.jsonl",
+      "sha256": "c39aaf71d39b5daf2e15217c623203baf7a80b8151cb29b9ae7464674a4a577c",
+      "bytes": 69981
+    },
+    {
+      "word": "gut",
+      "url": "https://kaikki.org/dictionary/German/meaning/g/gu/gut.jsonl",
+      "sha256": "dcc114bba710958445b6d427c5c7b822b7767c25a9643fe20612c991f4ee3cdd",
+      "bytes": 42737
+    },
+    {
+      "word": "haben",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/ha/haben.jsonl",
+      "sha256": "207c4deaa7dab11b9143e100b75a0ebc85efd5af0a24ca8709c056ce17f0eca2",
+      "bytes": 29004
+    },
+    {
+      "word": "halten",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/ha/halten.jsonl",
+      "sha256": "268a74c679bd28d55b7a0142874ae36857a012a777bf57a5918d362ae1fda65b",
+      "bytes": 39115
+    },
+    {
+      "word": "Haus",
+      "url": "https://kaikki.org/dictionary/German/meaning/H/Ha/Haus.jsonl",
+      "sha256": "600b4a9cdcda6db3d659c1c61b97853dbac334f48cb84d7b76548ef701ef7c19",
+      "bytes": 55244
+    },
+    {
+      "word": "Häuser",
+      "url": "https://kaikki.org/dictionary/German/meaning/H/H%C3%A4/H%C3%A4user.jsonl",
+      "sha256": "2dc0ccbcdc6c0a1fcddd419c1abef46767a98bdc387653cd4f1fbf8b6d64de1b",
+      "bytes": 1083
+    },
+    {
+      "word": "heiß",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/he/hei%C3%9F.jsonl",
+      "sha256": "cc418485488c2ce5fa712c96093fea3bfdb627d727ca638272c08e0f6ab21490",
+      "bytes": 27156
+    },
+    {
+      "word": "heißen",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/he/hei%C3%9Fen.jsonl",
+      "sha256": "c60c8ea419a8c183f3f8cd4089d2ec9939b310068e733ac68f741513d2c300ba",
+      "bytes": 27056
+    },
+    {
+      "word": "helfen",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/he/helfen.jsonl",
+      "sha256": "a7d91afe0a4da80a74e1a6149d958cea4ebdff3690383c76fd75a8172277b3d3",
+      "bytes": 21648
+    },
+    {
+      "word": "heute",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/he/heute.jsonl",
+      "sha256": "fdffd187a8ace028c89fae0e16f7673161492e04eccfeb7a1d33755d5ffe8822",
+      "bytes": 4882
+    },
+    {
+      "word": "hier",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/hi/hier.jsonl",
+      "sha256": "02444e73e3d2302aca8745b4fea1ef957e0237af71b68f72bec08a60ab54c4ae",
+      "bytes": 13449
+    },
+    {
+      "word": "Himmel",
+      "url": "https://kaikki.org/dictionary/German/meaning/H/Hi/Himmel.jsonl",
+      "sha256": "76c917320138684ac78d49e71100510f3baaf027edd02ba25ba265842e2b7d98",
+      "bytes": 5283
+    },
+    {
+      "word": "hoffen",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/ho/hoffen.jsonl",
+      "sha256": "002c10073b682c482e03eede241791004cdb2e65010ade0c249a4627d670e67e",
+      "bytes": 17824
+    },
+    {
+      "word": "Hoffnung",
+      "url": "https://kaikki.org/dictionary/German/meaning/H/Ho/Hoffnung.jsonl",
+      "sha256": "e32c4de6eb4b3edecb805bc6bfa18f5a14c01fc4f5f4618b6450b724b5233cf9",
+      "bytes": 5957
+    },
+    {
+      "word": "holen",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/ho/holen.jsonl",
+      "sha256": "7716bc6cb0b9c162ba7a5aa667c0d0beee4e1a9130efd8cbf248e2b1ba8ee653",
+      "bytes": 20205
+    },
+    {
+      "word": "hören",
+      "url": "https://kaikki.org/dictionary/German/meaning/h/h%C3%B6/h%C3%B6ren.jsonl",
+      "sha256": "169b03036cd7a7c32458bda1be68bed99713c4451b466447e4c2f40c36c3f506",
+      "bytes": 21235
+    },
+    {
+      "word": "Hund",
+      "url": "https://kaikki.org/dictionary/German/meaning/H/Hu/Hund.jsonl",
+      "sha256": "adb363fb1401c754a71ad6be4ab6a27224c910110be7e1d1d6e6be69c845d128",
+      "bytes": 16747
+    },
+    {
+      "word": "Idee",
+      "url": "https://kaikki.org/dictionary/German/meaning/I/Id/Idee.jsonl",
+      "sha256": "9f15fad31a9757b53dca86ee8cd62b729c592de3518e43977f942418d72888f7",
+      "bytes": 4260
+    },
+    {
+      "word": "immer",
+      "url": "https://kaikki.org/dictionary/German/meaning/i/im/immer.jsonl",
+      "sha256": "7c45983f3476c3fe374dfa10507a23feab5779de57bce637d79c94e8bc8af895",
+      "bytes": 9952
+    },
+    {
+      "word": "in",
+      "url": "https://kaikki.org/dictionary/German/meaning/i/in/in.jsonl",
+      "sha256": "ea38a909465de722ffdb77ac661bc91a3ccea50b84ad1036aef09a13c8e9208a",
+      "bytes": 14018
+    },
+    {
+      "word": "innen",
+      "url": "https://kaikki.org/dictionary/German/meaning/i/in/innen.jsonl",
+      "sha256": "1b466fecdb65c6dc0240447ac0876b3e009ff8b572a578c707b753fc2a2ca8cc",
+      "bytes": 2162
+    },
+    {
+      "word": "Internet",
+      "url": "https://kaikki.org/dictionary/German/meaning/I/In/Internet.jsonl",
+      "sha256": "b446e166ff5cef1d135c4d7ca5b1eb1355ac1d6db36bbf47e8d064c480730506",
+      "bytes": 7976
+    },
+    {
+      "word": "Jahr",
+      "url": "https://kaikki.org/dictionary/German/meaning/J/Ja/Jahr.jsonl",
+      "sha256": "ced9b550c072784b31e9a2aae9fbefdcfa1d7855c79a715925566673b2c975d3",
+      "bytes": 8470
+    },
+    {
+      "word": "jetzt",
+      "url": "https://kaikki.org/dictionary/German/meaning/j/je/jetzt.jsonl",
+      "sha256": "560afff358ac648dc620c7df3d3fe09ef1f753104656a4ef43753eb956931ff2",
+      "bytes": 5439
+    },
+    {
+      "word": "jung",
+      "url": "https://kaikki.org/dictionary/German/meaning/j/ju/jung.jsonl",
+      "sha256": "bfc9f3614b1fd65bcbd758bff72006343aa9637e8090eff81dfb9036169ffb9d",
+      "bytes": 28166
+    },
+    {
+      "word": "Kaffee",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Ka/Kaffee.jsonl",
+      "sha256": "4c7442e11dcf033c026c597745c7e45e29d6c57a29059ad172eee7d1b7f1b2bf",
+      "bytes": 12743
+    },
+    {
+      "word": "kalt",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/ka/kalt.jsonl",
+      "sha256": "ee502911a710c8a2291b69411aad2628286673efa4d6978b87f5186d6433b809",
+      "bytes": 31350
+    },
+    {
+      "word": "Katze",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Ka/Katze.jsonl",
+      "sha256": "08d00595cd6268eae48ffa9ff13c34c69fde8c90756b05c0532f5401be9a433e",
+      "bytes": 7665
+    },
+    {
+      "word": "kaufen",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/ka/kaufen.jsonl",
+      "sha256": "63f243158b32e28be6de17d97bc12b5467ae78bbc5e6fe50406f3f1675106045",
+      "bytes": 18883
+    },
+    {
+      "word": "kennen",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/ke/kennen.jsonl",
+      "sha256": "4d61212001507863899395299a95343a3a734edbcd296d7830013153b2e67f58",
+      "bytes": 24692
+    },
+    {
+      "word": "Kind",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Ki/Kind.jsonl",
+      "sha256": "ecbcee02c18ff25cb9d28f4b6bb6f49cf743aa5449cc62234c167b97b6fc838c",
+      "bytes": 12581
+    },
+    {
+      "word": "klein",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/kl/klein.jsonl",
+      "sha256": "1ad19af2f3fd7606d0cb21d7803c3b83e902c346d79f762e19ca969506286810",
+      "bytes": 31967
+    },
+    {
+      "word": "kommen",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/ko/kommen.jsonl",
+      "sha256": "3217fae9fc7651d126b8f8c79147c3434af40f4e63b8fb78ae5d74a53c191435",
+      "bytes": 42271
+    },
+    {
+      "word": "können",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/k%C3%B6/k%C3%B6nnen.jsonl",
+      "sha256": "0811154cf19d946b4df7651ef07378d8d61e03b30dee4c6c8804d5bd39d3ece6",
+      "bytes": 38933
+    },
+    {
+      "word": "kosten",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/ko/kosten.jsonl",
+      "sha256": "54f131cfccd48b121fb5c1254bde0b979eefaa5de222b82a073fd8b0f8ace416",
+      "bytes": 40569
+    },
+    {
+      "word": "krank",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/kr/krank.jsonl",
+      "sha256": "9a0d13bdaea8b5c6bdce45487231914edcc270785d7902783571d66cc4cc1063",
+      "bytes": 59698
+    },
+    {
+      "word": "Krankenhaus",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Kr/Krankenhaus.jsonl",
+      "sha256": "c5fb9986035a1ad67db577d8f4dbd032b971b8d1b8b89014363dd7b569819b28",
+      "bytes": 9806
+    },
+    {
+      "word": "Krankheit",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Kr/Krankheit.jsonl",
+      "sha256": "120aad280a13c583acddc7141c2ce4c483923fb4f4f264fc6da36de60c982d5a",
+      "bytes": 4630
+    },
+    {
+      "word": "Küche",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/K%C3%BC/K%C3%BCche.jsonl",
+      "sha256": "30c2307504fa38ec3fa57a3712d042576d5dd586aafe013dafc76a38924808d2",
+      "bytes": 9514
+    },
+    {
+      "word": "Kunde",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Ku/Kunde.jsonl",
+      "sha256": "03550c9901c1368a31d45ed5bd5c3ad6435f9250e64a78d46f20080cb4a0c4f7",
+      "bytes": 12757
+    },
+    {
+      "word": "Kunst",
+      "url": "https://kaikki.org/dictionary/German/meaning/K/Ku/Kunst.jsonl",
+      "sha256": "474b5ecfa0ec52393a624ee351ab8a6ca4af37d739aefb2a989c1c8c584301a9",
+      "bytes": 24036
+    },
+    {
+      "word": "kurz",
+      "url": "https://kaikki.org/dictionary/German/meaning/k/ku/kurz.jsonl",
+      "sha256": "4bad045a449cc72bb0f6a372e89f21c3aa2421e44d932a13a320be6596e9750b",
+      "bytes": 40558
+    },
+    {
+      "word": "Land",
+      "url": "https://kaikki.org/dictionary/German/meaning/L/La/Land.jsonl",
+      "sha256": "9fbba2abef3f872c47acc68f7a59bdb272fade6f386d495bd76641d3a480a848",
+      "bytes": 11194
+    },
+    {
+      "word": "lang",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/la/lang.jsonl",
+      "sha256": "d2b1b67aebf9cbd4d90a1faf2e5de2ae5908a56392d67db76333db8c86dd18a9",
+      "bytes": 43287
+    },
+    {
+      "word": "langsam",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/la/langsam.jsonl",
+      "sha256": "2473a491b87b16174a06507fa2cf169cdc192186c23ea89d2ccf8bc930ef37e8",
+      "bytes": 31370
+    },
+    {
+      "word": "lassen",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/la/lassen.jsonl",
+      "sha256": "286b4393769ec2e15e3a046e670ce512648616de69d75b07d0a335710835d57d",
+      "bytes": 34138
+    },
+    {
+      "word": "laufen",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/la/laufen.jsonl",
+      "sha256": "48f1f2100e88f5fb9522329a313d3c4346617e63de6ab5eeb15a9e01046f8a53",
+      "bytes": 25338
+    },
+    {
+      "word": "leben",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/le/leben.jsonl",
+      "sha256": "e5ce2ce744da71d189f286a446c984aad8f70c46936c89726a5162288ee78f3c",
+      "bytes": 27707
+    },
+    {
+      "word": "Leben",
+      "url": "https://kaikki.org/dictionary/German/meaning/L/Le/Leben.jsonl",
+      "sha256": "1b590569d187ef36d3cb355b8add7cb657a6a7fec8be5c3c1d55df0c4b4955b8",
+      "bytes": 17222
+    },
+    {
+      "word": "legen",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/le/legen.jsonl",
+      "sha256": "1f4b1be1366583284e816b545d62a5614e0fda0a70e3ff1ea96e6dc290ba9a11",
+      "bytes": 22028
+    },
+    {
+      "word": "leicht",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/le/leicht.jsonl",
+      "sha256": "bf068c101dd72d2793c8f2e4826eb1be3865910debce1409a8298618d80c32fe",
+      "bytes": 35285
+    },
+    {
+      "word": "Leiter",
+      "url": "https://kaikki.org/dictionary/German/meaning/L/Le/Leiter.jsonl",
+      "sha256": "5ea11b718acab9683be2c69a841636d1b104c2b029c45175f65dc53466c2db28",
+      "bytes": 14425
+    },
+    {
+      "word": "lernen",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/le/lernen.jsonl",
+      "sha256": "78393f6bae5da4c016294c6e9ddecf2d3c68869d0d43b43d65309d53596311b8",
+      "bytes": 22885
+    },
+    {
+      "word": "lesen",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/le/lesen.jsonl",
+      "sha256": "9c349500b017a1dfc1f9918e0636456586059455907fdcc278816462ab774bfc",
+      "bytes": 26879
+    },
+    {
+      "word": "Liebe",
+      "url": "https://kaikki.org/dictionary/German/meaning/L/Li/Liebe.jsonl",
+      "sha256": "e2574d62521e4113b0f698ad9652426c0fb39bd716acd0ee025b303eadba3099",
+      "bytes": 8182
+    },
+    {
+      "word": "lieben",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/li/lieben.jsonl",
+      "sha256": "dcc5052c2ba049fb4e47cc86c72eb5ef7b86ffaa64921769907fe5989e39e590",
+      "bytes": 20825
+    },
+    {
+      "word": "liegen",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/li/liegen.jsonl",
+      "sha256": "61532ea4e1f6dc4c0b12edec9b2167aca9486b100eb1476ffe49260eb7928518",
+      "bytes": 30066
+    },
+    {
+      "word": "links",
+      "url": "https://kaikki.org/dictionary/German/meaning/l/li/links.jsonl",
+      "sha256": "2f3b22b977d2af1102713b2e36e485e16005ef66a33a2be340e7018a739d3f4c",
+      "bytes": 7153
+    },
+    {
+      "word": "Lösung",
+      "url": "https://kaikki.org/dictionary/German/meaning/L/L%C3%B6/L%C3%B6sung.jsonl",
+      "sha256": "754de7b48e6b5dff56f45723f3558793043f6009d7ebfd61ca42bc4a0f55415a",
+      "bytes": 8612
+    },
+    {
+      "word": "machen",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/ma/machen.jsonl",
+      "sha256": "cf3e8f84916ed204711883ae9b77d48654b7df61a98f76c77026dd6367c26962",
+      "bytes": 44360
+    },
+    {
+      "word": "manchmal",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/ma/manchmal.jsonl",
+      "sha256": "b0b47a5131892c7815e82ee9d2df20b9adbd9d45debc22cf23a3423108296274",
+      "bytes": 4236
+    },
+    {
+      "word": "Mann",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Ma/Mann.jsonl",
+      "sha256": "58340138ab06b914f182f53ca41598465b87b280393967870d1dda225c95efae",
+      "bytes": 13310
+    },
+    {
+      "word": "Meer",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Me/Meer.jsonl",
+      "sha256": "b0297c326a7a5bc50a3b3da33005f0024ac1491fbde628b97c7f10312567c185",
+      "bytes": 7196
+    },
+    {
+      "word": "Mensch",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Me/Mensch.jsonl",
+      "sha256": "b8f9d6deb84c64fabd786d778231a0bdab449b082eaa679c90cabf6f37a58c6f",
+      "bytes": 31235
+    },
+    {
+      "word": "Milch",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mi/Milch.jsonl",
+      "sha256": "91f4a06565faf98b24a6ef2f9ec48fb2bc0d2b170aab27c37e38eafd4c1b69a0",
+      "bytes": 14127
+    },
+    {
+      "word": "Minute",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mi/Minute.jsonl",
+      "sha256": "70b35aed6b61f2909133bced23f48f7eba31c8e58dc6af3b232b4c2621174b70",
+      "bytes": 7389
+    },
+    {
+      "word": "mit",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/mi/mit.jsonl",
+      "sha256": "91cf13d1ad40ce9b15918b7d013240293492736587d41a25e9c51b2fb1f26be8",
+      "bytes": 16130
+    },
+    {
+      "word": "Mittagessen",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mi/Mittagessen.jsonl",
+      "sha256": "5dbabb9a6daacaf04aadaba8597d84dcb9249ce60fb78e52a9fcc33814750cdb",
+      "bytes": 3766
+    },
+    {
+      "word": "mögen",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/m%C3%B6/m%C3%B6gen.jsonl",
+      "sha256": "25036a35c83430761baf3c61a5a873abf24a417150b1943cde08e6bf78e76a9c",
+      "bytes": 28589
+    },
+    {
+      "word": "möglich",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/m%C3%B6/m%C3%B6glich.jsonl",
+      "sha256": "82a66248d23f98fcdb7fdc77ac0d56d43cf12e131c8568945dc21a6c155be5a3",
+      "bytes": 14549
+    },
+    {
+      "word": "Monat",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mo/Monat.jsonl",
+      "sha256": "68e0b8e33df6a7dd3b9169d7ecb7d2153b0e4941fa9c60d9a76356b497a3a12c",
+      "bytes": 5939
+    },
+    {
+      "word": "morgen",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/mo/morgen.jsonl",
+      "sha256": "e75bfa4dfee92d70f0496da86bed862cb0cef7194dd591539304b9619f6e124d",
+      "bytes": 3859
+    },
+    {
+      "word": "Morgen",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mo/Morgen.jsonl",
+      "sha256": "fb0e48bff729cf373e732659cd0b0a0b35ce4633bade479fcaa4166202729c6b",
+      "bytes": 15751
+    },
+    {
+      "word": "müde",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/m%C3%BC/m%C3%BCde.jsonl",
+      "sha256": "e55f5f66e507bedb671268aebdf5e4e849838eff3c44bab98654530c9c874b4b",
+      "bytes": 27857
+    },
+    {
+      "word": "Musik",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mu/Musik.jsonl",
+      "sha256": "62caab619ddf18d226f07b4b7954e7faf7874047b3d0b19b7c3cd044bd465271",
+      "bytes": 6363
+    },
+    {
+      "word": "müssen",
+      "url": "https://kaikki.org/dictionary/German/meaning/m/m%C3%BC/m%C3%BCssen.jsonl",
+      "sha256": "c11a1950814fcb70b7f7a807964ce8fb261816481835a3e21c946afdb18d4f4f",
+      "bytes": 19418
+    },
+    {
+      "word": "Mutter",
+      "url": "https://kaikki.org/dictionary/German/meaning/M/Mu/Mutter.jsonl",
+      "sha256": "892863533122dda7e3be4e4776ec72933e0263cdff486b08909380babd726d61",
+      "bytes": 18518
+    },
+    {
+      "word": "nach",
+      "url": "https://kaikki.org/dictionary/German/meaning/n/na/nach.jsonl",
+      "sha256": "57ff671bca0eae6ff6d629f594f570b8a671f9c675f62e337eddeee314721d2e",
+      "bytes": 22897
+    },
+    {
+      "word": "Nachricht",
+      "url": "https://kaikki.org/dictionary/German/meaning/N/Na/Nachricht.jsonl",
+      "sha256": "14c089540d39879a38cba0b735b10546092605b58b1a0fca8352f311cb120838",
+      "bytes": 4041
+    },
+    {
+      "word": "Nacht",
+      "url": "https://kaikki.org/dictionary/German/meaning/N/Na/Nacht.jsonl",
+      "sha256": "6d0a3a551dec74f99efb4c3d3905c7166381c6d6a0ae4b526a78384e41fde056",
+      "bytes": 8540
+    },
+    {
+      "word": "Name",
+      "url": "https://kaikki.org/dictionary/German/meaning/N/Na/Name.jsonl",
+      "sha256": "430a6e0afb08bf4dcdb0c3a67ccc73872fb7944e3191c918583b10bd12b86254",
+      "bytes": 8764
+    },
+    {
+      "word": "nehmen",
+      "url": "https://kaikki.org/dictionary/German/meaning/n/ne/nehmen.jsonl",
+      "sha256": "ae622aff403eae31e55786b38d2207f9fbd8589585f5d803547925d06c158213",
+      "bytes": 33302
+    },
+    {
+      "word": "neu",
+      "url": "https://kaikki.org/dictionary/German/meaning/n/ne/neu.jsonl",
+      "sha256": "7265211448d4a49f4a57f1d5ed42b6fce0b2978893d960334f45951ae9ee8d02",
+      "bytes": 36628
+    },
+    {
+      "word": "nie",
+      "url": "https://kaikki.org/dictionary/German/meaning/n/ni/nie.jsonl",
+      "sha256": "5cd1efa98388c3d5431243ae44444bbe3015ad1434e3df5c95fcc4962e2f9dbd",
+      "bytes": 2700
+    },
+    {
+      "word": "oben",
+      "url": "https://kaikki.org/dictionary/German/meaning/o/ob/oben.jsonl",
+      "sha256": "2025a6f5b5b95aa61ac1100a8a9327bcb4ffc3eae1b9500b99a42636b3a534a5",
+      "bytes": 3071
+    },
+    {
+      "word": "obwohl",
+      "url": "https://kaikki.org/dictionary/German/meaning/o/ob/obwohl.jsonl",
+      "sha256": "fdd8603729c5a84268c63dd86a738c569b3125ddb8fb9ee7af6dc9fe6321a4eb",
+      "bytes": 2012
+    },
+    {
+      "word": "oder",
+      "url": "https://kaikki.org/dictionary/German/meaning/o/od/oder.jsonl",
+      "sha256": "d340b5cc25a12f4fe00883cc97678671ee21b08367fe073ec6d5429148f1ba36",
+      "bytes": 9908
+    },
+    {
+      "word": "öffnen",
+      "url": "https://kaikki.org/dictionary/German/meaning/%C3%B6/%C3%B6f/%C3%B6ffnen.jsonl",
+      "sha256": "1427f70b8d47d9a9be22b5f9f2a6f7eae7b313db8ea725ea851c142b82ffcd7e",
+      "bytes": 19640
+    },
+    {
+      "word": "oft",
+      "url": "https://kaikki.org/dictionary/German/meaning/o/of/oft.jsonl",
+      "sha256": "8cd8d2f4339d4701fbe65524238e2938d6086a159c564229eb2b2173915cf9bb",
+      "bytes": 3166
+    },
+    {
+      "word": "ohne",
+      "url": "https://kaikki.org/dictionary/German/meaning/o/oh/ohne.jsonl",
+      "sha256": "717f2d900f659a6036cc947d6389c36bf9b9dc97709c4834f8d1cb1f1b12a407",
+      "bytes": 12977
+    },
+    {
+      "word": "Platz",
+      "url": "https://kaikki.org/dictionary/German/meaning/P/Pl/Platz.jsonl",
+      "sha256": "cd15c42643c98692436655522a930ec568361a0ca9a47e091dea3b4dc7df8b9c",
+      "bytes": 15138
+    },
+    {
+      "word": "Preis",
+      "url": "https://kaikki.org/dictionary/German/meaning/P/Pr/Preis.jsonl",
+      "sha256": "ee9cac52e6ca38191d7d8c638186f4a30bbb478fa41c21d6a920a5d6935db4b3",
+      "bytes": 5981
+    },
+    {
+      "word": "Problem",
+      "url": "https://kaikki.org/dictionary/German/meaning/P/Pr/Problem.jsonl",
+      "sha256": "5ad4d4dadbf9be479579c97199c7b9e6c18566ff9cf9c5797a58c9a4b77b1098",
+      "bytes": 17600
+    },
+    {
+      "word": "Rechnung",
+      "url": "https://kaikki.org/dictionary/German/meaning/R/Re/Rechnung.jsonl",
+      "sha256": "4d0e8fc2e2a3616a28b69a7747f6e3f0f1c65adada6a78f19ae48c146b801710",
+      "bytes": 8023
+    },
+    {
+      "word": "rechts",
+      "url": "https://kaikki.org/dictionary/German/meaning/r/re/rechts.jsonl",
+      "sha256": "abceb2cd729b52d7a052bd653dc9cddee5afec21054d4883e8c4d6b7328864d8",
+      "bytes": 3485
+    },
+    {
+      "word": "Regen",
+      "url": "https://kaikki.org/dictionary/German/meaning/R/Re/Regen.jsonl",
+      "sha256": "75e74d61b0002593a1fb8f9f9952cc9a731c002a691aa576565174a49cfc25c6",
+      "bytes": 12911
+    },
+    {
+      "word": "Reise",
+      "url": "https://kaikki.org/dictionary/German/meaning/R/Re/Reise.jsonl",
+      "sha256": "de61956a6d0aac3b46058e8c9577f31157e849cb58b6bb9cec99a571368bd7f5",
+      "bytes": 7545
+    },
+    {
+      "word": "reisen",
+      "url": "https://kaikki.org/dictionary/German/meaning/r/re/reisen.jsonl",
+      "sha256": "a0a49b82c0c6fa1d1167b65adc77de7d0d40cddbfb31513c54a68d31efa420b2",
+      "bytes": 39713
+    },
+    {
+      "word": "richtig",
+      "url": "https://kaikki.org/dictionary/German/meaning/r/ri/richtig.jsonl",
+      "sha256": "4c666db90ab9b9f7335126160b888dce517d79a93f0d82d49ee1d24959b8cfd2",
+      "bytes": 32167
+    },
+    {
+      "word": "sagen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sa/sagen.jsonl",
+      "sha256": "0985dd5899f8fe6b15ae8605540bf8fdc8c6a105bf68ff08ba38b88de495c722",
+      "bytes": 22765
+    },
+    {
+      "word": "schlafen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schlafen.jsonl",
+      "sha256": "17f00108d54ff7be401550540570a66d45df3eabd077a9d61a5a0d18f9d1845a",
+      "bytes": 24146
+    },
+    {
+      "word": "schlecht",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schlecht.jsonl",
+      "sha256": "259a83e5cf1565504e6341b729c314c00d2b5213870997db8d89bd733a292d21",
+      "bytes": 40195
+    },
+    {
+      "word": "schließen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schlie%C3%9Fen.jsonl",
+      "sha256": "fbb97fbdfc1b59cd44f3651fa864ad8c6720db1281b9fecd38b2d8c88f30d9b4",
+      "bytes": 21608
+    },
+    {
+      "word": "Schloss",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/Sc/Schloss.jsonl",
+      "sha256": "40e40a316ebcbaa1f089c9304e502c52c77a94ed247647578d399554664b6142",
+      "bytes": 6620
+    },
+    {
+      "word": "Schnee",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/Sc/Schnee.jsonl",
+      "sha256": "2ca8ab5afef352db6942a03eb7234edef8585ef1da928961e30537a54f584664",
+      "bytes": 6489
+    },
+    {
+      "word": "schnell",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schnell.jsonl",
+      "sha256": "5db64b94c96c5bf06f4781a9543c516695b92dfdd8ebf797c5e88912512584da",
+      "bytes": 32254
+    },
+    {
+      "word": "schön",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/sch%C3%B6n.jsonl",
+      "sha256": "3e01b53f7bb29431f3b0187bc125e9271963b7860c2e49e46fa09ff0751fa1c6",
+      "bytes": 37262
+    },
+    {
+      "word": "schreiben",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schreiben.jsonl",
+      "sha256": "8f8a13ef2e5e9df2539986fe5f3df43bc836048aa4b2a88fda27277d25a5c111",
+      "bytes": 28559
+    },
+    {
+      "word": "Schule",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/Sc/Schule.jsonl",
+      "sha256": "2883a8542716f66fe27f61f0eaeb79d2027464d6e214b8a78e3857ddecf04607",
+      "bytes": 25879
+    },
+    {
+      "word": "schwer",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schwer.jsonl",
+      "sha256": "9c9cfe4c61d0b3458172640b6280d73d1c266133fc407a237ee4c2bbde35324a",
+      "bytes": 33373
+    },
+    {
+      "word": "Schwester",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/Sc/Schwester.jsonl",
+      "sha256": "8545cee727d83524dcc1d3906c790c1cdb3631e237b74dade61c6401a8c5734c",
+      "bytes": 8585
+    },
+    {
+      "word": "schwierig",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sc/schwierig.jsonl",
+      "sha256": "abb5209ab8b3f03b79d93a60576e04196ff7052f763dba046230a8fda880c259",
+      "bytes": 28784
+    },
+    {
+      "word": "See",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/Se/See.jsonl",
+      "sha256": "0d093d1805e530537a7a490a71277c98a9bd8518219cdce81080d4a9623d1b9b",
+      "bytes": 15296
+    },
+    {
+      "word": "sehen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/se/sehen.jsonl",
+      "sha256": "33dc82e06014898c863cfb0d0ab58b4f8c3f751f6f7a6c0e44dd8b500d7b1650",
+      "bytes": 27005
+    },
+    {
+      "word": "sein",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/se/sein.jsonl",
+      "sha256": "1631a7a0e46cc67c866244d9f37750bf24decb9b2c86c7fb326f2b7a52e4582e",
+      "bytes": 48438
+    },
+    {
+      "word": "setzen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/se/setzen.jsonl",
+      "sha256": "3a6420d11c83c85cfd208edea42e402055d9c3f93744e2dd062b70dcc6142858",
+      "bytes": 21523
+    },
+    {
+      "word": "sicher",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/si/sicher.jsonl",
+      "sha256": "380c6f1168199f3ef120bb42d6ea8d1fa676c74fc886809c67ca50310729c057",
+      "bytes": 52888
+    },
+    {
+      "word": "sitzen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/si/sitzen.jsonl",
+      "sha256": "0bde8026a3de33a36a6cd5398a641a73b170347754bebe63aaf27c87362129b3",
+      "bytes": 29303
+    },
+    {
+      "word": "Sohn",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/So/Sohn.jsonl",
+      "sha256": "27e024e6b33753d0b5e8150434999ccc234a69f58dce91bf9b75b953ffbd6b23",
+      "bytes": 6037
+    },
+    {
+      "word": "sollen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/so/sollen.jsonl",
+      "sha256": "aca6ad45a45056d9b2590e3b4f994e23cccda00602ecfdea30b5c2118d27171e",
+      "bytes": 20235
+    },
+    {
+      "word": "Sonne",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/So/Sonne.jsonl",
+      "sha256": "9ad333a2fd52a2cbf59840a097e93ee400f7e2ff7859205d4b3fb661896ea70e",
+      "bytes": 12865
+    },
+    {
+      "word": "spielen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sp/spielen.jsonl",
+      "sha256": "748603fe0729e5cfc3085f01e45377cd70e5990465a7fd8deb8415ffd44ba4d0",
+      "bytes": 22509
+    },
+    {
+      "word": "Sprache",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/Sp/Sprache.jsonl",
+      "sha256": "529ef9172bb85c5caa9a8006aa69ff8ff71bd888ae2a8a588236d01e2fb9225e",
+      "bytes": 42926
+    },
+    {
+      "word": "sprechen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/sp/sprechen.jsonl",
+      "sha256": "b41a527b05c4a59ceaba62fd68940a46bb551f9008ae39eda95a4b6d6521f03f",
+      "bytes": 24131
+    },
+    {
+      "word": "Stadt",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/St/Stadt.jsonl",
+      "sha256": "88890c80a5c0dbd3983d6116405855bc6e5580c1e8cad15fc860b0521d0387ee",
+      "bytes": 18800
+    },
+    {
+      "word": "stehen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/st/stehen.jsonl",
+      "sha256": "e97d1101a772461588e820e8add86fa7d701f90f06f0a202c32938a29558a987",
+      "bytes": 36447
+    },
+    {
+      "word": "stellen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/st/stellen.jsonl",
+      "sha256": "6fffe34e90d9aab59a355ff82e44a0857e398f59fa1f6ad214cf0941361c30ca",
+      "bytes": 32124
+    },
+    {
+      "word": "Straße",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/St/Stra%C3%9Fe.jsonl",
+      "sha256": "39f804033410f1c06d3db5c6e9c02dce83226d7b7663860aa57d7116bef1b6f3",
+      "bytes": 15036
+    },
+    {
+      "word": "Stuhl",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/St/Stuhl.jsonl",
+      "sha256": "07277d186df0f47eea5a23f53f71f9de11dedb8fcd448770b5b506c3e73525f9",
+      "bytes": 9036
+    },
+    {
+      "word": "Stunde",
+      "url": "https://kaikki.org/dictionary/German/meaning/S/St/Stunde.jsonl",
+      "sha256": "4ee2da568889353e68f82fcd7a5464e83d4f4db757baa47bd4924f35cb21a61f",
+      "bytes": 11111
+    },
+    {
+      "word": "suchen",
+      "url": "https://kaikki.org/dictionary/German/meaning/s/su/suchen.jsonl",
+      "sha256": "31fe362d6e2c312e06f99bf7c5ca9f2577fe7047be3c740e1afcf8b45be3667c",
+      "bytes": 20083
+    },
+    {
+      "word": "Tag",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/Ta/Tag.jsonl",
+      "sha256": "8bb2db7adeadfaa26c23c73aded0dcc0f110cd4d5d2844ed63e7746925d40e9c",
+      "bytes": 20884
+    },
+    {
+      "word": "Tee",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/Te/Tee.jsonl",
+      "sha256": "0d81c13332069080a3f1076c07f6a28f9eed915208dc8081eae1a81f3db7a7b9",
+      "bytes": 8672
+    },
+    {
+      "word": "Telefon",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/Te/Telefon.jsonl",
+      "sha256": "ee2d8a1afba9194c239954a27cabf087cc8efcbf6d222be387d939e30b7d065b",
+      "bytes": 7781
+    },
+    {
+      "word": "Termin",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/Te/Termin.jsonl",
+      "sha256": "879a8d8e13eaf492914cfa097a5a8a50664c50477b1f17bfdfc885450eadd1cb",
+      "bytes": 7197
+    },
+    {
+      "word": "Tisch",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/Ti/Tisch.jsonl",
+      "sha256": "3d8dc0b0fd48d4866d9ade0a187cf204dbffc5390c944318f0dcfc2efa417cd7",
+      "bytes": 8145
+    },
+    {
+      "word": "Tochter",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/To/Tochter.jsonl",
+      "sha256": "82d9dc8d4e1cf1ebe3b3b8c5690599823acec0337ba532b602d6f542c1096316",
+      "bytes": 5340
+    },
+    {
+      "word": "tragen",
+      "url": "https://kaikki.org/dictionary/German/meaning/t/tr/tragen.jsonl",
+      "sha256": "75a2dc7ef2279954b2e2eea734fc1609c931ff11f72717bbc80a209c4c6cc247",
+      "bytes": 31177
+    },
+    {
+      "word": "traurig",
+      "url": "https://kaikki.org/dictionary/German/meaning/t/tr/traurig.jsonl",
+      "sha256": "1aca911c408231064889d2d5aa546b11e1b9ecbd8b4dec8336e85ee145a6e49f",
+      "bytes": 32505
+    },
+    {
+      "word": "treffen",
+      "url": "https://kaikki.org/dictionary/German/meaning/t/tr/treffen.jsonl",
+      "sha256": "e720dbf3800a6cf8508683178f29011c61715ae3ee5838fa1224fb5802347559",
+      "bytes": 22917
+    },
+    {
+      "word": "trinken",
+      "url": "https://kaikki.org/dictionary/German/meaning/t/tr/trinken.jsonl",
+      "sha256": "5d55e5a374b533c9ce1f4f088ab3124b9cce2c1b3b5eedc2e0933e26c52c93ec",
+      "bytes": 24533
+    },
+    {
+      "word": "trotzdem",
+      "url": "https://kaikki.org/dictionary/German/meaning/t/tr/trotzdem.jsonl",
+      "sha256": "40134ac13fbc356d9f0eade122ccbb8e4da929fccaf624bbce2f248893deb80e",
+      "bytes": 4193
+    },
+    {
+      "word": "Tür",
+      "url": "https://kaikki.org/dictionary/German/meaning/T/T%C3%BC/T%C3%BCr.jsonl",
+      "sha256": "440c28f381ad6bce38be41e11098f64053ea056a60de6818d17ac582b627b35f",
+      "bytes": 12069
+    },
+    {
+      "word": "über",
+      "url": "https://kaikki.org/dictionary/German/meaning/%C3%BC/%C3%BCb/%C3%BCber.jsonl",
+      "sha256": "1998b242eac51ca4ea4fad328ad7de449fceedb6e0adb791683f2b06adb7053e",
+      "bytes": 37814
+    },
+    {
+      "word": "und",
+      "url": "https://kaikki.org/dictionary/German/meaning/u/un/und.jsonl",
+      "sha256": "af9876cf1166906e66f2613a36675b7485c432d2c66c66c38816b8b23a422a5c",
+      "bytes": 11156
+    },
+    {
+      "word": "Universität",
+      "url": "https://kaikki.org/dictionary/German/meaning/U/Un/Universit%C3%A4t.jsonl",
+      "sha256": "714ecb170d26d8b0826839e823f18811cc603422a80b17fd17df1ec039d8f52a",
+      "bytes": 5947
+    },
+    {
+      "word": "unmöglich",
+      "url": "https://kaikki.org/dictionary/German/meaning/u/un/unm%C3%B6glich.jsonl",
+      "sha256": "ccce459c4a86a8ade1cef72ca5c0739831b2ae38e7b2a099b018344010636fe4",
+      "bytes": 32399
+    },
+    {
+      "word": "unten",
+      "url": "https://kaikki.org/dictionary/German/meaning/u/un/unten.jsonl",
+      "sha256": "2f4df913175f909d01d7bd1ce43d923f4766d07db6de467a1a940a4479fde862",
+      "bytes": 2548
+    },
+    {
+      "word": "unter",
+      "url": "https://kaikki.org/dictionary/German/meaning/u/un/unter.jsonl",
+      "sha256": "63fe53bead39737c5c19775bf2bbf0510b8cd8be3f4cd00c853e3c950dafa0b7",
+      "bytes": 9691
+    },
+    {
+      "word": "Unternehmen",
+      "url": "https://kaikki.org/dictionary/German/meaning/U/Un/Unternehmen.jsonl",
+      "sha256": "604d2ac76e2408c476180413433aa4143e50a75ff74c8a5d8ba02434db11273f",
+      "bytes": 5506
+    },
+    {
+      "word": "Urlaub",
+      "url": "https://kaikki.org/dictionary/German/meaning/U/Ur/Urlaub.jsonl",
+      "sha256": "b5bd4703a5a36c5f76f537e17a1ff5e46a13c6b40e4743d242fda1ea5d63d436",
+      "bytes": 6691
+    },
+    {
+      "word": "Vater",
+      "url": "https://kaikki.org/dictionary/German/meaning/V/Va/Vater.jsonl",
+      "sha256": "3482ddcf1f993a49d1e7c4518f5a9aef1170c23c08d6ee87c146d9146ba58c9d",
+      "bytes": 8955
+    },
+    {
+      "word": "Vergangenheit",
+      "url": "https://kaikki.org/dictionary/German/meaning/V/Ve/Vergangenheit.jsonl",
+      "sha256": "89f53b0af432f4f1fbd2466aa8956d44e70665d95ba7862669d249537c4b4455",
+      "bytes": 3223
+    },
+    {
+      "word": "vergessen",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/ve/vergessen.jsonl",
+      "sha256": "ceca47644343f638964d0a8c6efb981990c14c6def1ba67d31c14889c7d433e0",
+      "bytes": 29672
+    },
+    {
+      "word": "verkaufen",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/ve/verkaufen.jsonl",
+      "sha256": "188d99617e1f10fe72545f64c0bcea1126ef98807306cd6bfb2256ac761c44ee",
+      "bytes": 18069
+    },
+    {
+      "word": "verlieren",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/ve/verlieren.jsonl",
+      "sha256": "4e430dcaed66ecda84da3859f93e85d0f021da34919957832e7560bf21e4ec60",
+      "bytes": 21366
+    },
+    {
+      "word": "verstehen",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/ve/verstehen.jsonl",
+      "sha256": "f26d161719c0fa6e6654f0e18c5b2f340cf5600e9161f95662d06448b8039b78",
+      "bytes": 31071
+    },
+    {
+      "word": "versuchen",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/ve/versuchen.jsonl",
+      "sha256": "f319bc00549355ad5f46b1f35d18151bca35fd5d2d60a6553c94bcb4cd6a22a6",
+      "bytes": 19480
+    },
+    {
+      "word": "Vertrag",
+      "url": "https://kaikki.org/dictionary/German/meaning/V/Ve/Vertrag.jsonl",
+      "sha256": "a624ff1d5ff904a76a34d01742b68b3055995506e1e61ae9d531c807fa70ed33",
+      "bytes": 4537
+    },
+    {
+      "word": "vielleicht",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/vi/vielleicht.jsonl",
+      "sha256": "e9939d8b54fb92effcafad92066eaba93e51065e6ccc87cec745a5228973a721",
+      "bytes": 3916
+    },
+    {
+      "word": "vor",
+      "url": "https://kaikki.org/dictionary/German/meaning/v/vo/vor.jsonl",
+      "sha256": "75fc5cf29e7bf43fae5ed82fc9d4b28911812805852d62f0ce5fa2d0e4357546",
+      "bytes": 6910
+    },
+    {
+      "word": "wachsen",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wa/wachsen.jsonl",
+      "sha256": "e9d25553555d1fe4d2fb919a72d425628721cdd6498e26a4713083df9bc1a793",
+      "bytes": 34177
+    },
+    {
+      "word": "während",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/w%C3%A4/w%C3%A4hrend.jsonl",
+      "sha256": "71c476e48fb5057415902ff7b3a2a6c74054e6eb53435596beba6d3ba7da7a8a",
+      "bytes": 6506
+    },
+    {
+      "word": "Wald",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/Wa/Wald.jsonl",
+      "sha256": "624db193ad2596d7ece5b6a146a567ebb5d1c5d931c56e5421a3f64c42728682",
+      "bytes": 6844
+    },
+    {
+      "word": "warm",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wa/warm.jsonl",
+      "sha256": "a3452f3c4e68dc401ad83bcdf356eb3b9f6895f75c2a7ab257346fadc0efd60a",
+      "bytes": 27368
+    },
+    {
+      "word": "warten",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wa/warten.jsonl",
+      "sha256": "1fb4c65ada15dc5c30aed73e45cba13e3be9f9237aeb8b344e8e67b7ebfd2390",
+      "bytes": 18506
+    },
+    {
+      "word": "Wasser",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/Wa/Wasser.jsonl",
+      "sha256": "ec1f7fb4829acea3292dee43ac5e42a662f90acbac40b4e95cad7261aec39ddf",
+      "bytes": 19386
+    },
+    {
+      "word": "Weg",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/We/Weg.jsonl",
+      "sha256": "dea5d69906cc6cc98f6cd1c1fb6862f763ddba8be5d355b617396495634169b8",
+      "bytes": 8833
+    },
+    {
+      "word": "weil",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/we/weil.jsonl",
+      "sha256": "058e12ef15be3b801170558a875c6dce5964e4623d0bdadd75332c90e3d620f7",
+      "bytes": 3404
+    },
+    {
+      "word": "Welt",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/We/Welt.jsonl",
+      "sha256": "1778a7b5e7c9483f34ed15f0bf6f87c94d942469136739af40d3f9e6bff7f798",
+      "bytes": 10198
+    },
+    {
+      "word": "wenn",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/we/wenn.jsonl",
+      "sha256": "27434bad659e869e0a597fa25d8a79e365cbdfb4faf964ce0d21b4c859c561ac",
+      "bytes": 4154
+    },
+    {
+      "word": "werden",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/we/werden.jsonl",
+      "sha256": "46189e4eb38d33c6e01bb83ebd8145f757024f7e6c64e3575c5f6497c113b041",
+      "bytes": 24855
+    },
+    {
+      "word": "Wetter",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/We/Wetter.jsonl",
+      "sha256": "e5bab9a015d48abf336e15da98df58299283dc12989c742189aa4017432f6317",
+      "bytes": 9369
+    },
+    {
+      "word": "wichtig",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wi/wichtig.jsonl",
+      "sha256": "dc8533143ad635a3f99f4b0e397c32589c8855ff2ed1129604f6056c4f1b7607",
+      "bytes": 27887
+    },
+    {
+      "word": "wirklich",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wi/wirklich.jsonl",
+      "sha256": "ad6c838495ce13032bddfd0c3a45e80b05beeecb61226730212ee595189a54f4",
+      "bytes": 28748
+    },
+    {
+      "word": "wissen",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wi/wissen.jsonl",
+      "sha256": "710961e767471987006e2d9886cfd64403aad314455f5d21c6581ea5a9dc5ae3",
+      "bytes": 20431
+    },
+    {
+      "word": "Wissen",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/Wi/Wissen.jsonl",
+      "sha256": "6b3d22fbfec44679775c20806cd888f58e09f684c9dfe16cf8528613d7bbb3b0",
+      "bytes": 1743
+    },
+    {
+      "word": "Woche",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/Wo/Woche.jsonl",
+      "sha256": "1cf332acee7e32ef10bf80b88ba85fd16053d7738d0deb68528b6aa565e7a6a9",
+      "bytes": 7041
+    },
+    {
+      "word": "wohnen",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wo/wohnen.jsonl",
+      "sha256": "678dd0e2ea19be27c2c74357329ce9bdff24cd22812b84f2509423ed61cf2222",
+      "bytes": 18845
+    },
+    {
+      "word": "Wohnung",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/Wo/Wohnung.jsonl",
+      "sha256": "c7569be2d5e1a014e6c5fcc40cf834b29a0b2f91e07beb4f828c02ba24cfea0c",
+      "bytes": 4472
+    },
+    {
+      "word": "wollen",
+      "url": "https://kaikki.org/dictionary/German/meaning/w/wo/wollen.jsonl",
+      "sha256": "a2ecc670f75a7a87d9047c9921866cf9f0055ff76d25d5cfe85ff0f841db213e",
+      "bytes": 32574
+    },
+    {
+      "word": "Wort",
+      "url": "https://kaikki.org/dictionary/German/meaning/W/Wo/Wort.jsonl",
+      "sha256": "ef5ef2feafe90abb9126cc24b11a305dda28147a80917f3ea55d0a80a8aa8007",
+      "bytes": 13699
+    },
+    {
+      "word": "zeigen",
+      "url": "https://kaikki.org/dictionary/German/meaning/z/ze/zeigen.jsonl",
+      "sha256": "7532e54fb6f64630e51e58533b0ba0e6f37e730b1631904225e6ab9a804b3a84",
+      "bytes": 22141
+    },
+    {
+      "word": "Zeit",
+      "url": "https://kaikki.org/dictionary/German/meaning/Z/Ze/Zeit.jsonl",
+      "sha256": "86b4defe492970b93a1a6a76b24cdfc729410592098fe2630676661465fb93e8",
+      "bytes": 43506
+    },
+    {
+      "word": "Zeitung",
+      "url": "https://kaikki.org/dictionary/German/meaning/Z/Ze/Zeitung.jsonl",
+      "sha256": "918166da9e18634860a86a19d4ee4e5b5d73c6c1cac373ff17bd32aa571c588a",
+      "bytes": 6355
+    },
+    {
+      "word": "ziehen",
+      "url": "https://kaikki.org/dictionary/German/meaning/z/zi/ziehen.jsonl",
+      "sha256": "d9c10935ba93f5b6f81a02973909699bc23b46a307b1237aee5680c060515a7f",
+      "bytes": 31736
+    },
+    {
+      "word": "Zimmer",
+      "url": "https://kaikki.org/dictionary/German/meaning/Z/Zi/Zimmer.jsonl",
+      "sha256": "3832f22a81a318b515d5b72c6ea68a28664dbb2c67f664c2ce5a5c0f593ee66d",
+      "bytes": 14740
+    },
+    {
+      "word": "Zug",
+      "url": "https://kaikki.org/dictionary/German/meaning/Z/Zu/Zug.jsonl",
+      "sha256": "698d00036d8a05f04c9608ccbfbf2785d8ef24593fa02a3901165339bff6a268",
+      "bytes": 18985
+    },
+    {
+      "word": "Zukunft",
+      "url": "https://kaikki.org/dictionary/German/meaning/Z/Zu/Zukunft.jsonl",
+      "sha256": "d0a18cce29862a10c60c52e74ab6917017f4c5a306bb83186e754ea660e1151f",
+      "bytes": 5073
+    },
+    {
+      "word": "zusammen",
+      "url": "https://kaikki.org/dictionary/German/meaning/z/zu/zusammen.jsonl",
+      "sha256": "7be5f71720a5cc28d1edf5ae4009a95d147024d2a751dd7fe8e193f98f110c7b",
+      "bytes": 28127
+    },
+    {
+      "word": "zwischen",
+      "url": "https://kaikki.org/dictionary/German/meaning/z/zw/zwischen.jsonl",
+      "sha256": "b780733ed4cb1979fc197c01071c075323e735a4d1aad8a113bae458838129ab",
+      "bytes": 5566
+    }
+  ]
+}

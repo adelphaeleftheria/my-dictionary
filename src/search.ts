@@ -1,0 +1,12 @@
+import {normalize,rank,type Entry,type Hit} from './model';
+const base=import.meta.env.BASE_URL+'data/';
+let manifestPromise:Promise<any>|undefined;
+export const manifest=()=>manifestPromise??=fetch(base+'manifest.json').then(r=>{if(!r.ok)throw Error('Dataset manifest unavailable');return r.json()});
+export const entry=async(id:string):Promise<Entry>=>{const r=await fetch(base+'entries/'+encodeURIComponent(id)+'.json');if(!r.ok)throw Error('Entry unavailable');return r.json()};
+const hex=(s:string)=>Array.from(new TextEncoder().encode(s)).map(x=>x.toString(16).padStart(2,'0')).join('');
+export async function search(q:string,signal?:AbortSignal):Promise<Hit[]>{const n=normalize(q);if(!n)return [];const m=await manifest();if(!m.accepted)return [];const length=Math.min(n.length,3),grams=Array.from({length:n.length-length+1},(_,i)=>n.slice(i,i+length));if(grams.some(g=>!m.grams[g]))return suggestions(n,signal);const gram=grams.sort((a,b)=>m.grams[a]-m.grams[b])[0];const r=await fetch(base+'index/'+hex(gram)+'.json',{signal});if(!r.ok)throw Error('Search index unavailable');const ids:Set<string>=new Set(await r.json()),shards=[...new Set([...ids].map(id=>id.slice(0,2)))];const hits:Hit[]=[];
+// Read candidate shards sequentially; no raw dump or all-entry fetch is required.
+for(const key of shards){const r=await fetch(base+'shards/'+key+'.json',{signal});if(!r.ok)throw Error('Search shard unavailable');const entries:Entry[]=await r.json();for(const e of entries){if(ids.has(e.id)){const hit=rank(e,q);if(hit)hits.push(hit);}}}if(!hits.length)return suggestions(n,signal);return hits.sort((a,b)=>b.score-a.score||a.word.localeCompare(b.word,'de'));}
+
+export function distance(a:string,b:string):number {let row=Array.from({length:b.length+1},(_,i)=>i);for(let i=1;i<=a.length;i++){const next=[i];for(let j=1;j<=b.length;j++)next[j]=Math.min(next[j-1]+1,row[j]+1,row[j-1]+(a[i-1]===b[j-1]?0:1));row=next;}return row[b.length];}
+async function suggestions(q:string,signal?:AbortSignal):Promise<Hit[]> {if(q.length<3)return [];const r=await fetch(base+'lexicon.json',{signal});if(!r.ok)throw Error('Spelling lexicon unavailable');const words:{id:string;word:string;pos:string}[]=await r.json();return words.filter(w=>Math.abs(normalize(w.word).length-q.length)<=1&&distance(q,normalize(w.word))<=1).slice(0,8).map(w=>({...w,preview:'Did you mean this word?',kind:'Spelling suggestion',score:10}));}

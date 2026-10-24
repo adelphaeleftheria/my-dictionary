@@ -1,0 +1,4 @@
+import{it,expect,vi}from'vitest';import{readFile}from'node:fs/promises';
+vi.stubGlobal('fetch',async(url:string)=>{const path=url.replace(/^.*?data\//,'public/data/');try{return new Response(await readFile(path,'utf8'))}catch{return new Response('',{status:404})}});
+const{search,distance}=await import('../src/search');
+it('queries generated indexes in both directions and suggests misspellings',async()=>{expect((await search('ging'))[0].word).toBe('gehen');expect((await search('gegangen'))[0].word).toBe('gehen');expect((await search('Haeuser')).some(h=>h.word==='Haus')).toBe(true);expect((await search('house')).some(h=>h.word==='Haus')).toBe(true);expect((await search('Huas')).some(h=>h.kind==='Spelling suggestion')).toBe(false);expect(distance('haus','hauss')).toBe(1);expect((await search('hauss')).some(h=>h.word==='Haus')).toBe(true)});

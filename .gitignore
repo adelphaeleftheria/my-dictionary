@@ -1,0 +1,8 @@
+node_modules/
+dist/
+data/raw/
+*.log
+*.tsbuildinfo
+public/data.previous/
+public/data.building/
+__pycache__/

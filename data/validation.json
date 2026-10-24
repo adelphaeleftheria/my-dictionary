@@ -1,0 +1,70 @@
+{
+  "generatedAt": "2026-10-24T07:44:07.862Z",
+  "entries": 393,
+  "senses": 1281,
+  "examples": 1172,
+  "pairedExamples": 1168,
+  "missingIPA": 6,
+  "missingForms": 59,
+  "entriesWithoutExamples": 145,
+  "missingEnglishGlosses": 0,
+  "manifestBytes": 111797,
+  "measurements": [
+    {
+      "q": "gehen",
+      "candidates": 37,
+      "shards": 36,
+      "bytes": 878429,
+      "matchingEntries": 19,
+      "localValidationMs": 3.66
+    },
+    {
+      "q": "ging",
+      "candidates": 22,
+      "shards": 21,
+      "bytes": 517275,
+      "matchingEntries": 13,
+      "localValidationMs": 3.01
+    },
+    {
+      "q": "gegangen",
+      "candidates": 12,
+      "shards": 12,
+      "bytes": 344068,
+      "matchingEntries": 1,
+      "localValidationMs": 2.69
+    },
+    {
+      "q": "Häuser",
+      "candidates": 5,
+      "shards": 5,
+      "bytes": 98555,
+      "matchingEntries": 2,
+      "localValidationMs": 0.66
+    },
+    {
+      "q": "Haeuser",
+      "candidates": 5,
+      "shards": 5,
+      "bytes": 98555,
+      "matchingEntries": 2,
+      "localValidationMs": 0.78
+    },
+    {
+      "q": "house",
+      "candidates": 31,
+      "shards": 30,
+      "bytes": 831007,
+      "matchingEntries": 15,
+      "localValidationMs": 2.78
+    },
+    {
+      "q": "walk",
+      "candidates": 10,
+      "shards": 10,
+      "bytes": 257970,
+      "matchingEntries": 3,
+      "localValidationMs": 1.23
+    }
+  ]
+}
